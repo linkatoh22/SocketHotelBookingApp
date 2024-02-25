@@ -1,0 +1,22 @@
+[
+    {
+        "tai khoan": "tklinhst1245",
+        "matkhau": "2245",
+        "sobank": "1234567890"
+    },
+    {
+        "tai khoan": "tklinhst2",
+        "matkhau": "123",
+        "sobank": "1234567890"
+    },
+    {
+        "tai khoan": "baohanh2",
+        "matkhau": "123abc",
+        "sobank": "0123456789"
+    },
+    {
+        "tai khoan": "baohanh1",
+        "matkhau": "abc123",
+        "sobank": "1234567890"
+    }
+]
